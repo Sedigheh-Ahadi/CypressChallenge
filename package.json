@@ -1,25 +1,4 @@
 {
-  "name": "cypress",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sedigheh-Ahadi/cypress.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Sedigheh-Ahadi/cypress/issues"
-  },
-  "homepage": "https://github.com/Sedigheh-Ahadi/cypress#readme",
-  "dependencies": {
-    "cypress": "^15.6.0"
-  },
   "devDependencies": {
     "cypress-real-events": "^1.15.0"
   }
